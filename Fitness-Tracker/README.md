@@ -8,5 +8,4 @@ Here I have used
 * Expressjs
 * Node JS
 * Mongoose
-* CORS
 * Mongo DB as Database
